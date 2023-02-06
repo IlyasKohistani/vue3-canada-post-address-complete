@@ -1,0 +1,5 @@
+{
+    "no_address_found_in_country": "Sorry, no address matches your search in :COUNTRY.",
+    "no_country_found": "Sorry, no country found.",
+    "search_in_country": "Find an address in :COUNTRY."
+}
